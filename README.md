@@ -1,14 +1,14 @@
 # バベル転生
-チームで開発したオンライン対戦ゲームです。
-チーム構成
+チームで開発したオンライン対戦ゲームです。  
+チーム構成  
 sanka7777:企画/ネットワーク処理実装　
 メンバー1:ゲームAI設計実装/NPC・Player設計実装
 メンバー2:NPC・Player設計実装/システム詳細設計実装
 メンバー3:ゲームルールシステム設計実装/レベルデザイン
-メンバー4:システム詳細設計実装
+メンバー4:システム詳細設計実装  
 
 sanka7777担当・関与スクリプト:CharacterMaker.cs, Ready.cs,GameStart.cs, RoomConnect.cs, ButtonVisible.cs, GameEnd.cs, HostExplanation.cs, NetworkConnect.cs, NonHostExplanation.cs, 
-RoomTimeManager.cs
+RoomTimeManager.cs  
 
 【動作環境】Windows10【使用言語】Unity/C#
 【概要】オンライン対応入れ替わり式の非対称戦闘ゲームです。ゲーム開始時プレイヤーはランダムな動物に転生します。サメとなったプレイヤーは他プレイヤーを捕食し高得点を得る事ができます。草食動物となったプレイヤーはサメから逃げるかバベルの塔を建築することでポイントを得られます。塔を建てるとサメに転生できるため、より高得点を狙える最強生物サメへの転生を目指してください。時間内により高いポイントを稼いだプレイヤーが勝利します。
