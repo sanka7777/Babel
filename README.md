@@ -9,7 +9,7 @@ sanka7777:企画管理/ネットワーク設計・実装
 メンバー3:ゲームルールシステム設計実装/レベルデザイン  
 メンバー4:システム詳細設計実装    
 
-sanka7777担当・関与スクリプト:  スクリプトはソースのAssetsの中にあるScriptsフォルダに全てあります。
+sanka7777担当・関与スクリプト:  スクリプトはソースのAssetsの中にあるScriptフォルダに全てあります。
 CharacterMaker.cs, Ready.cs,GameStart.cs, RoomConnect.cs, ButtonVisible.cs, GameEnd.cs, HostExplanation.cs, NetworkConnect.cs, NonHostExplanation.cs, 
 RoomTimeManager.cs  
 
