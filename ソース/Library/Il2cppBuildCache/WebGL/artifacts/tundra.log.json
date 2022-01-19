@@ -1,0 +1,3 @@
+{"msg":"init","dagFile":"artifacts\\tundra.dag","targets":[]}
+{"msg":"nodeRetryBuild","annotation":"Il2Cpp C:/Users/mizuk/製作/バベル~2/BABEL-/Library/Il2cppBuildCache/WebGL/Native/build.bc","index":2}
+{"msg":"noderesult","annotation":"Il2Cpp C:/Users/mizuk/製作/バベル~2/BABEL-/Library/Il2cppBuildCache/WebGL/Native/build.bc","index":2,"exitcode":1,"stdout":"Failed to create output directory for targetfile C:\\Users\\mizuk\\製作\\バベル~2\\BABEL-\\Library\\Il2cppBuildCache\\WebGL\\Native\\build.bc as part of preparing to actually running this node"}

@@ -116,8 +116,10 @@ MonoBehaviour:
   killPoint: 10
   deadPoint: 10
   animator: {fileID: 0}
+  text: {fileID: 0}
+  killBall: {fileID: 0}
   speed: 10
-  RoateSpeed: 1
+  RoateSpeed: 300
   prefab: {fileID: 3720060500672085792, guid: 141cf81238fe69746a686e22042f8eea, type: 3}
   moveSpeed: 5
 --- !u!54 &5097460085346020687
