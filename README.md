@@ -1,5 +1,7 @@
 # バベル転生
 チームで開発したオンライン対戦ゲームです。  
+UnityRoomでも公開中です。
+https://unityroom.com/games/k3babel
 【チーム構成】  
 sanka7777:企画管理/ネットワーク設計・実装  
 メンバー1:ゲームAI設計実装/NPC・Player設計実装/ネットワーク化  
@@ -7,7 +9,7 @@ sanka7777:企画管理/ネットワーク設計・実装
 メンバー3:ゲームルールシステム設計実装/レベルデザイン  
 メンバー4:システム詳細設計実装    
 
-sanka7777担当・関与スクリプト:  
+sanka7777担当・関与スクリプト:  スクリプトはソースのAssetsの中にあるScriptsフォルダに全てあります。
 CharacterMaker.cs, Ready.cs,GameStart.cs, RoomConnect.cs, ButtonVisible.cs, GameEnd.cs, HostExplanation.cs, NetworkConnect.cs, NonHostExplanation.cs, 
 RoomTimeManager.cs  
 
